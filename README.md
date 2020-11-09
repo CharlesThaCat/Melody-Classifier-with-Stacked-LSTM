@@ -1,12 +1,14 @@
 # Melody-Classifier-with-Stacked-LSTM
-This is the repository for our code and dataset in AI-Composed Music Recognition Competition held by Conference on Sound and Music Technology. The information about this competition can be found [here](https://ai-composition-recognition2020.github.io/english.html).<br>
+This is the repository for our code and dataset in AI-Composed Music Recognition Competition held by the [8th Conference on Sound and Music Technology](http://www.csmcw-csmt.cn/). The information about this competition can be found [here](https://ai-composition-recognition2020.github.io/english.html).<br>
 
 ## Collaborator
 `You Li`, New York University, yl6911@nyu.edu <br>
 `Zhuowen Lin`, Georgia Institute of Technology, zlin343@gatech.edu <br>
 
 ## Technical Details
-Our technical report can be found [here](https://arxiv.org/abs/2010.08123).<br>
+According to the results posted [here](https://ai-composition-recognition2020.github.io/english.html), we won the 1st (and 2nd) place of this competition! :trophy:<br> ![](result.png "competition result")
+
+Our technical report can be found [here](https://arxiv.org/abs/2010.08123). Our presentation at the 8th Conference on Sound and Music Technology can be found [here](https://drive.google.com/file/d/1KieDt6zXUh6q2JoR-KdGd4h7XxGCVKlA/view?usp=sharing).<br>
 ### Dataset
 Training data in label 0 (music composed by AI algorithms) are distributed by the committee of this competition. They are 6000 MIDI files with monophonic melodies, tempi between 68 and 118 bpm, and lengths of 8 bars. They contain different music genres and do not necessarily include complete phrase structures.<br>
 
